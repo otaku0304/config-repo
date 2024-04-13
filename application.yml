@@ -21,3 +21,4 @@ swagger:
 swaggest:
   service:
     url: http://localhost:8083/
+    appName: http://swaggest-service/

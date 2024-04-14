@@ -1,4 +1,4 @@
-firestore:
+firebase:
   config-file: firestore.json
 
 swag:

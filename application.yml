@@ -1,5 +1,5 @@
-firebase:
-  config-file: firebase.json
+firestore:
+  config-file: firestore.json
 
 swag:
   service:

@@ -16,8 +16,8 @@ swagger:
       
   data:
     mongodb:
-      database: ${{ secrets.MONGO_DATABASE }}
-      url: ${{ secrets.MONGO_URL }}
+      database: Cluster0
+      url: mongodb+srv://saiannam:rMBkdT0SlOzHytlJ@cluster0.w6jwbm1.mongodb.net/
 
 swaggest:
   service:

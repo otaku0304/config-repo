@@ -9,17 +9,6 @@ swagger:
   service:
     url: http://localhost:8082/
 
-  servlet:
-    multipart:
-      max-file-size: 5MB
-      max-request-size: 15MB
-      
-  data:
-    mongodb:
-      database: Cluster0
-      url: mongodb+srv://saiannam:rMBkdT0SlOzHytlJ@cluster0.w6jwbm1.mongodb.net/
-
 swaggest:
   service:
     url: http://localhost:8083/
-    appName: http://SWAGGEST-SERVICE/

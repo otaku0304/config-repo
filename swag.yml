@@ -1,6 +1,2 @@
-spring:
- application:
-   name: swag-service
-   
 firebase:
   config-file: firestore.json

@@ -3,11 +3,11 @@ eureka:
     service-url:
       defaultZone: http://discovery:8761/eureka/
       
-swag:
-  url: http://localhost:8081
+# swag:
+#   url: http://localhost:8081
 
-swagger:
-  url: http://localhost:8082
+# swagger:
+#   url: http://localhost:8082
 
-swaggest:
-  appName: http://localhost:8083
+# swaggest:
+#   appName: http://localhost:8083
